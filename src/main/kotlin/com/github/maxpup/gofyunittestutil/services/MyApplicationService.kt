@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.maxpup.gofyunittestutil.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.maxpup.gofyunittestutil.MyBundle
 
 class MyApplicationService {
 
